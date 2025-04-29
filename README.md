@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Currently working on creating a proper base before specialization.<br>👯 I’m looking to collaborate on any interesting projects that need UI/UX experience.<br>🌱 I’m currently learning backend and databases to get to full stack.<br>💬 Ask me about Frontend designs, AI and art too.<br>⚡ Fun fact: I will always find a way to use the least energy to solve anything effectively.
+🔭 Main interest for specialization is Embedded Systems.I also have a nice touch in Frontend designs and UI/UX <br>👯 I’m looking to collaborate on any interesting Arduino projects.
 
 
 ## 🌐 Socials:
